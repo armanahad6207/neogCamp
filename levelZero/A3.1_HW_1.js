@@ -71,3 +71,5 @@ console.log("--------------------------------------------");
 console.log("Total Cart Price:" + " ₹" + totalCartPrice);
 
 console.log("Delivery Charges:", deliveryChargeStatus);
+
+console.log("Delivery Charges:", deliveryChargeStatus);
